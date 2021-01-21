@@ -1,2 +1,2 @@
 # python-lessons
-this is python-lessons
+HELLO THERE
